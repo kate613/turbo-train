@@ -3,10 +3,10 @@
 > this telegram bot has the ability to give you a random pokemon(or shiny pokemon) that you can feed and raise as your own :)
 ## Features
 '''
-> **raise** the pokemon 🔥
-> **feed** the pokemon 😋
-> get **achivments** 💫
++ **raise** the pokemon 🔥
++ **feed** the pokemon 😋
++ get **achivments** 💫
 '''
 ### Rquierments 
 '''
-> Python 3.8+
++ Python 3.8+
