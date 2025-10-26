@@ -7,6 +7,6 @@
 + **feed** the pokemon 😋
 + get **achivments** 💫
 '''
-### Rquierments 
+### **Reqierments**
 '''
 + Python 3.8+
